@@ -33,7 +33,7 @@ clone the code:
 ```
 Go to the project directory
 ```bash
-  cd terraform-task
+  cd Terraform-Task
 ```  
 
 Replace access key and secret key in TerraformFinal.tf and terraform init:
